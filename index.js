@@ -10,12 +10,6 @@ function destructivelyPrependKitten(name) {
 function destructivelyRemoveLastKitten(name) {
 
 }
-function destructivelyAppendKitten(name) {
-
-}
-function destructivelyAppendKitten(name) {
-
-}
-function destructivelyAppendKitten(name) {
+function destructivelyRemoveFirstKitten(name) {
 
 }
