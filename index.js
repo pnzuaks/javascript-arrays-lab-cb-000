@@ -26,14 +26,14 @@ function appendKitten(name) {
   return array
 }
 function prependKitten(name) {
-  kittens.push(name)
-  return kittens
+  var array = [name]
+  return array
 }
 function removeLastKitten(name) {
-  kittens.push(name)
-  return kittens
+  var array = kittens.concat(name)
+  return array
 }
 function removeFirstKitten(name) {
-  kittens.push(name)
-  return kittens
+  var array = kittens.concat(name)
+  return array
 }
