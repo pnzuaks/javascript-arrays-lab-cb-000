@@ -1,3 +1,21 @@
 var kittens = ["Milo", "Otis", "Garfield"]//define your array here
 
-functi
+function destructivelyAppendKitten(name) {
+
+}
+
+function destructivelyPrependKitten(name) {
+
+}
+function destructivelyAppendKitten(name) {
+
+}
+function destructivelyAppendKitten(name) {
+
+}
+function destructivelyAppendKitten(name) {
+
+}
+function destructivelyAppendKitten(name) {
+
+}
